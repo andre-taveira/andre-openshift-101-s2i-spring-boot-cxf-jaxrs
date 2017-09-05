@@ -1,0 +1,1 @@
+# andre-openshift-101-s2i-spring-boot-cxf-jaxrs
